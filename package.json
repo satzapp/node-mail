@@ -1,0 +1,18 @@
+{
+  "name": "smtp-mail",
+  "version": "1.0.0",
+  "description": "Mail using SMTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SMTP",
+    "Mail"
+  ],
+  "author": "Satz",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.2.1"
+  }
+}
